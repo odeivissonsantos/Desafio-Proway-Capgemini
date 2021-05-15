@@ -55,6 +55,6 @@ O objetivo deste documento é facilitar a compreenção do escopo do projeto e d
 Muito obrigado pela atenção.
 
 #### SOBRE O AUTOR/ORGANIZADOR
-Deivisson da Silva Santos
-deivissonsantos@hotmail.com
-Dúvidas, criticas ou sugestões? Vamos discutir. Linkedin: https://www.linkedin.com/in/deivisson-santos-96296b131/
+* Deivisson da Silva Santos
+* deivissonsantos@hotmail.com
+*Dúvidas, criticas ou sugestões? Vamos discutir. Linkedin: https://www.linkedin.com/in/deivisson-santos-96296b131/
