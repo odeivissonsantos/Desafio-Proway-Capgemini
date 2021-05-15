@@ -45,6 +45,9 @@ O objetivo deste documento é facilitar a compreenção do escopo do projeto e d
 * 6º sair do programa.
 
 ### BIBLIOTECAS DO PROJETO
+* java.time.LocalDate;
+* java.time.Period;
+* java.util.InputMismatchException;
 * java.util.Date;
 * java.util.DateTimeFormatter;
 * java.util.Scanner;
